@@ -10,8 +10,7 @@ https://github.com/Ajay-Kumar-Jaiswal/state-wise-crop-production-analysis
 📊 Project Overview
 
 Agriculture plays a vital role in India's economy. This project aims to:
-
-- Analyze crop production trends across states  
+ 
 - Understand relationships between area and production  
 - Identify high-performing states and crops  
 - Build a predictive model for crop production  
