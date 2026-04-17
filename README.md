@@ -55,7 +55,14 @@ The project includes multiple visualizations such as:
 
 ---
 
+🛠️ Tech Stack
 
+- Python  
+- Pandas  
+- NumPy  
+- Matplotlib  
+- Seaborn  
+- Scikit-learn  
 
 ---
 
