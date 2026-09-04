@@ -141,20 +141,6 @@ The data was divided into:
 - 80% Training Data
 - 20% Testing Data
 
----
-
-# 🌲 Random Forest Regression
-
-The Machine Learning model used was **Random Forest Regressor**.
-
-### Model Parameters
-
-| Parameter | Value |
-|-----------|-------|
-| `n_estimators` | 50 |
-| `max_depth` | 10 |
-| `n_jobs` | -1 |
-| `random_state` | 42 |
 
 ---
 
