@@ -207,21 +207,23 @@ The project contains an interactive Power BI dashboard for analyzing agricultura
 
 ### Production Insights
 
-- A small number of states contribute significantly to overall agricultural production.
-- Crop production varies considerably across states and years.
-- Different crops show significant differences in production levels.
+- Total agricultural production is approximately **114.52 billion**.
+- **Kerala** leads the states shown in total production.
+- Production shows considerable year-to-year variation, with peak output around the **mid-2000s**.
+- **Spices & Plantation** is the dominant crop category by production.
 
-### Agricultural Insights
+### Crop & Season Insights
 
-- Cultivated area has a positive relationship with production.
-- Average yield varies across states and crops.
-- Different states show specialization in particular crops.
-- Crop production patterns vary across agricultural seasons.
+- **Kharif** contributes the largest share of seasonal production at approximately **59.69%**, followed by **Rabi at 30.39%**.
+- Kharif shows the highest crop activity among the seasons analyzed.
+- **Sugarcane** leads the highlighted crops with approximately **5.53 billion** production.
+- Rice and Wheat are also major contributors, with approximately **1.61 billion** and **1.33 billion** production respectively.
 
-### Machine Learning Insights
+### Area & Yield Insights
 
-- State, crop, season, crop year, and cultivated area were used as features for crop production prediction.
-- The Random Forest Regression model achieved an **R² score of 0.91** on the test data.
+- Larger cultivated areas generally correspond to higher total production.
+- The overall average yield is approximately **38.87**.
+- Production efficiency varies across different crop categories.
 
 ---
 
