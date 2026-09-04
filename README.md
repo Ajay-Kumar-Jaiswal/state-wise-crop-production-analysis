@@ -187,7 +187,7 @@ The project contains an interactive Power BI dashboard for analyzing agricultura
 
 ## 🌾 Crop Production Dashboard
 
-![Crop Production Dashboard](dashboard/Crop_Production_Dashboard.png)
+![Crop Production Dashboard](dashboard/Screenshot 2026-09-05 004340.png)
 
 ---
 
