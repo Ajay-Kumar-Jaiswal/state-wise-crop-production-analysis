@@ -185,15 +185,21 @@ The project contains an interactive Power BI dashboard for analyzing agricultura
 
 # 📸 Dashboard Preview
 
-## 🌾 Crop Production Dashboard
+## 🏠 Overview Dashboard
 
-![Crop Production Dashboard](dashboard/Screenshot 2026-09-05 004340.png)
+![Overview Dashboard](dashboard/overview.png)
 
 ---
 
-## 📈 Agricultural Analysis Dashboard
+## 🌱 Crop Efficiency Analysis
 
-![Agricultural Analysis Dashboard](dashboard/Agricultural_Analysis.png)
+![Crop Efficiency Analysis](dashboard/crop_efficiency.png)
+
+---
+
+## 🌍 Regional Insights
+
+![Regional Insights](dashboard/regional_insights.png)
 
 ---
 
